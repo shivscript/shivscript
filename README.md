@@ -1,10 +1,7 @@
-- 👋 Hi, I’m @shivscript
-- 👀 I’m interested in Python, AWS, Machine Learning, etc.
-- 🌱 I’m currently learning Tensorflow 2.0
-- 💞️ I’m looking to collaborate on my research paper
-- 📫 Reach me through mail
-
-<!---
-shivscript/shivscript is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+# Hey, I'm Shiva 👋
+ 
+I'm a software engineer from Kathmandu, currently working on GenAI at Verisk — building RAG pipelines, LLM guardrails, and streaming APIs with Python/FastAPI on AWS.
+ 
+Always happy to collaborate on GenAI related projects. Feel free to reach out!
+ 
+[LinkedIn](https://www.linkedin.com/in/shivscript) · [Portfolio](https://shivashrestha.vercel.app/)
